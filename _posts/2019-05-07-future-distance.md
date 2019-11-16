@@ -16,6 +16,7 @@ each other firing. Shoot 500 bullets a minute and you've got trench
 warefare. 
 
 <!--more-->
+{% katexmm %}
 
 The same is true elsewhere, so we should expect to see major qualitative
 changes as we pass by various orders of magnitude.
@@ -71,3 +72,4 @@ How long until we've gained as much as we did in the past 10 years?
 
 Exponential growth, despite its ubiquity is surprisingly difficult to think
 about. I want to try to develop a simple way of compar
+{% endkatexmm %}

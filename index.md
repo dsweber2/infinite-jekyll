@@ -23,7 +23,7 @@ interests at this point are
 * Optimization
 * Mathematical Neuroscience
 
-Currently, I am focused on applying formalizations of neural networks to a well
+Currently, I am focused on applying the scattering transform to a well
 simulated sonar problem and understanding why that works, as well as a hefty
 side interest in understanding why Convolutional Neural Networks work so well
 in general.

@@ -23,7 +23,8 @@ sources:
 		links than anything, but they're usually good.
 * [Gödel's Lost Letter and P=NP](https://rjlipton.wordpress.com/)
 * [Quomodocumque](https://quomodocumque.wordpress.com/)
-
+* [Gapminder](https://www.gapminder.org/tools/#$chart-type=bubbles): If you're
+  wondering about comparative stats by country, this is the place to start
 
 
 # Less-wrong/Effective Altruism adjacent

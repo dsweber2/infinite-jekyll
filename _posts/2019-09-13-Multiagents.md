@@ -20,21 +20,42 @@ gain and lose members?
 <!--more-->
 {% katexmm %}
 
-To talk about thinking about multi-value agents, read some Elizabeth Anderson
+To talk about thinking about multi-value agents, read some Elizabeth
+Anderson. Specifically [Unstrapping the straightjacket of
+'preference'](http://www-personal.umich.edu/%7Eeandersn/andersoncritsen.pdf). She
+talks about the role of identity in the expressed preferences of
+individuals. Also relevant from her is [Slinging Arrows at
+Democracy](https://www.jstor.org/stable/1122890?seq=1). The incommensurability
+and non-consequentialist approach is where I'll be getting off that train, I think.
 
 There are schools of thought which consider a person not as an agent with a
 single, coherent utility function, but a whole panoply of agents, each with
 different goals, with no guarantees that any of the agents last particularly
 long. To my knowledge, these are not found frequently in the rationalist
 community. Maybe this shouldn't be surprising, given how starkly it flies in
-the face of the base assumptions of homo economicus.
+the face of some core assumptions about the relation between consciousness and
+rationality. One way to accidentally create such amalgams, however, is through
+bounded rationality; each possible way of achieving the overall goal gets
+assigned an agent, each optimizing for a different goal, and then interplay
+between the agents is set up to approximate net rationality.
 
-Because I hate words, I'll write agent $a$ prefers $A$ to $B$ as $A>_a B$,
-every individual prefers $A$ to $B$ as $A>B$, and the aggregate preference of
-everyone as $\succ$.
+Of course, there are also 
+(bit discussing other viewpoints)
 
-What can we say about what a group of agents should do? This is, at core a question of how to integrate multiple utility functions, which
-runs  [Arrow's
+Let's entertain the notion that
+
+Game theory, and the particular sub-discipline of social choice theory, are the
+most formal tools for dealing with decision making involving a group of
+rational agents. [Social choice
+theory](https://en.wikipedia.org/wiki/Social_choice_theory) is usually used as
+a tool to analyze voting systems, and it's most celebrated result is Arrow's
+theorem (I'll get there). As a warning, I'll occasionally write "agent $a$
+prefers $A$ to $B$" as $A>_a B$, "every individual prefers $A$ to $B$" as
+$A>B$, and the aggregate preference of everyone as $\succ$.
+
+What can we say about what a group of agents should do? This runs pretty
+quickly into the question of how to integrate multiple utility functions, which
+runs around on [Arrow's
 theorem.](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem). Roughly,
 we must break at least one of the following:
 

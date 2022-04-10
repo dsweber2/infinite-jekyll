@@ -37,3 +37,17 @@ nplayers = len(A)
 players = [g.players.add(x) for x in string.ascii_lowercase[0:nplayers]]
 g = g.new_table([len(x) for x in A])
 g.players[0]
+
+
+
+import torch as t
+import kymatio as km
+from kymatio.torch import Scattering2D
+
+t.random
+k=2
+x = t.randn(10, 2**5,2)
+N = x.shape[-2]
+x.view()
+
+xp = x.view(x.shape[:-2] + (k, N // k, 2))

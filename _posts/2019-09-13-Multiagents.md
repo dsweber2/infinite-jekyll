@@ -8,7 +8,7 @@ categories:
 layout: page
 hidden: false
 ---
-inspired by rationally speaking 183 with L.A. Paul. combining the idea of the
+Inspired by rationally speaking 183 with L.A. Paul. combining the idea of the
 modular mind and semicoherent rationality.
 
 Rational agents should oppose changes in their values. Should *non*rational
@@ -27,6 +27,8 @@ talks about the role of identity in the expressed preferences of
 individuals. Also relevant from her is [Slinging Arrows at
 Democracy](https://www.jstor.org/stable/1122890?seq=1). The incommensurability
 and non-consequentialist approach is where I'll be getting off that train, I think.
+
+[There's also a strain of buddhist no-self thought that's relevant and in the LessWrong world](https://www.lesswrong.com/posts/W59Nb72sYJhMJKGB8/a-non-mystical-explanation-of-no-self-three-characteristics)
 
 There are schools of thought which consider a person not as an agent with a
 single, coherent utility function, but a whole panoply of agents, each with
